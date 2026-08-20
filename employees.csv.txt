@@ -4,3 +4,4 @@ emp_id,emp_name,emp_sal
 103,Pruthvi,70000
 104,Jaggu,150000
 105,Yash,100000
+106,Shri,120000
