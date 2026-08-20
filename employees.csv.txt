@@ -1,7 +1,6 @@
 emp_id,emp_name,emp_sal
-101,Nandi,130000
 102,Arya,50000
 103,Pruthvi,70000
 104,Jaggu,150000
 105,Yash,100000
-106,Shri,120000
+107,Shri,110000
