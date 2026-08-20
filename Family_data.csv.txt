@@ -1,0 +1,6 @@
+name,salary,city
+Nandi,130000,Chennai
+Arya,50000,Mumbai
+Pruthvi,70000,Delhi
+Jaggu,150000,Bangalore
+Yash,100000,Punjab
